@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/7536d302-4dfc-4f21-b8cd-4335177d813e)
 
+> [XorCoBan.exe](https://github.com/Yu5hin/CTFs/raw/refs/heads/main/REV/EHC%20CTF%202025/Chi_la_Xor/XorCoBan123.exe)
+
 ---
 
 ```
